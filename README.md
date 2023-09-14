@@ -1,6 +1,6 @@
 # Multiclass_Classification_Handwriting_Detection
 This project aims to classify images using three different algorithms - Logistic Regression, KNN Classification, and Random Forest Classification. 
-
+This project was a collaboration done with Alron Harry, Olayemi Ogirimah, and myself (Rhaine Williams). 
 
 The dataset used for this project is a subset of the Kaggle English Handwritten Characters dataset, which consists of 3410 1200x900 color images with 62 classes (26 Capital & Common Letters of the English Alphabet, and Digits 0-9), with 55 images per class. (Can be accessed at: https://www.kaggle.com/datasets/dhruvildave/english-handwritten-characters-dataset?select=english.csv) However, only the English Capital Letters were used for this analysis.
 
